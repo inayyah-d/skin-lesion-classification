@@ -110,7 +110,7 @@ A GPU is recommended; the original run used Google Colab with a Tesla T4. The no
 
 ## Team & my role
 
-This was a team project by Dona Inayyah and **[TODO: teammate names]**.
+This was a team project by Dona Inayyah, Paige Camaya and Iris Cruz.
 
 My contributions (report §10):
 - Found the dataset we used and planned the project workflow.
