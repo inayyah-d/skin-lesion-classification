@@ -1,0 +1,13 @@
+# Derived from the notebook's imports. Versions are unpinned because the
+# original Colab run did not record them.
+tensorflow
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+scikit-learn
+mlxtend
+tqdm
+jupyter
